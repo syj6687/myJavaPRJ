@@ -1,8 +1,4 @@
 public class Hello {
-
-
-
-
     public static void main(String[] args){//main 함수입니다.
 
         int a = 100;
